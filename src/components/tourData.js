@@ -30,5 +30,69 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 5,
+    city: "ching rai ",
+    img: "./img/hiking.jpeg",
+    name: "Hiking tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 6,
+    city: "ching rai",
+    img: "./img/waterfall.jpeg",
+    name: "water fall tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 7,
+    city: "ching rai",
+    img: "./img/tree.jpeg",
+    name: "sakura in chiang rai tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 8,
+    city: "ching rai ",
+    img: "./img/park.jpeg",
+    name: "relaxing in central park",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 9,
+    city: "ching rai ",
+    img: "./img/puchefa.jpeg",
+    name: "pu-chi-fa tour",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 10,
+    city: "ching rai ",
+    img: "./img/wat.jpeg",
+    name: "sun rise in the morning",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 11,
+    city: "ching rai ",
+    img: "./img/hin.jpeg",
+    name: "rock mountain",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+  },
+  {
+    id: 12,
+    city: "ching rai ",
+    img: "./img/wat-pra-keaw.jpeg",
+    name: "wat pra keaw",
+    info:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
   }
 ];
