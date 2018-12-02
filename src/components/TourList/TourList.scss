@@ -23,7 +23,7 @@
 @media screen and (min-width: 1140px) {
     .tourlist {
 
-        grid-template-columns: epeat(4, 1fr);
+        grid-template-columns: repeat(4, 1fr);
 
     }
 }
